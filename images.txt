@@ -1,2 +1,2 @@
-nginx:latest
+eclipse-temurin:21-jdk
 # 此处一定要有一行空行
