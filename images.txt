@@ -1,2 +1,2 @@
-eclipse-temurin:21-jdk-slim
+openjdk:21-jdk-slim
 # 此处一定要有一行空行
