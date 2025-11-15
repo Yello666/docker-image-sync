@@ -1,2 +1,2 @@
-openjdk:21-jdk
+openjdk:21-jdk-slim-bookworm
 # 此处一定要有一行空行
