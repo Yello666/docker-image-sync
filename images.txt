@@ -1,5 +1,5 @@
 eclipse-temurin:21-jdk
 apache/rocketmq:5.1.4
 rabbitmq:3.11-management
-bitnami/kafka:3.5.2-debian-11-r0
+apache/kafka:3.9.0
 # 此处一定要有一行空行.
