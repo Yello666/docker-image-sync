@@ -1,4 +1,4 @@
 eclipse-temurin:21-jdk
 apache/rocketmq:5.1.4
 rabbitmq:3.11-management
-# 此处一定要有一行空行
+# 此处一定要有一行空行.
