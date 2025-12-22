@@ -2,4 +2,5 @@ eclipse-temurin:21-jdk
 apache/rocketmq:5.1.4
 rabbitmq:3.11-management
 confluentinc/cp-kafka:7.6.1
+bitnami/kafka:3.7.0
 # 此处一定要有一行空行.
