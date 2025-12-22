@@ -16,7 +16,7 @@ if [ -z "$ACR_REGISTRY" ] || [ -z "$ACR_NAMESPACE" ]; then
 fi
 
 # 设置目标架构，默认为 linux/amd64，如果需要 arm64 可通过环境变量覆盖，例如：export ARCH=linux/arm64
-ARCH=${ARCH:-linux/amd64}
+ARCH=${ARCH:-linux/arm64}
 # 是否强制同步（忽略目标仓库已存在的检查），默认 false
 FORCE_SYNC=${FORCE_SYNC:-false}
 
